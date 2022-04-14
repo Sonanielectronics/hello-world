@@ -1,2 +1,0 @@
-worker: python python1.py
-worker: python python2.py
